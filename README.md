@@ -6,14 +6,14 @@ Custom MongoDB template for NodeJS servers.
 
 - async/await coding style
 - Setup for connections to a MongoDB server with the functions:
-  - connectToDbServer
-  - createDb
-	- closeConnectionToDbServer
+  - **connectToDbServer**
+  - **createDb**
+	- **closeConnectionToDbServer**
 - Basic support for Create Read Update Delete - CRUD operations, with the functions:
-  - insertDocumentInCollection
-  - getAllDocumentsFromCollection
-  - updateDocumentInCollection
-  - removeDocumentFromCollection
+  - **insertDocumentInCollection**
+  - **getAllDocumentsFromCollection**
+  - **updateDocumentInCollection**
+  - **removeDocumentFromCollection**
 - Error handling with try/catch in all operations
 - Usage example with the **main** Immediately Invoked Function Expression - IIFE
 
@@ -21,12 +21,12 @@ Custom MongoDB template for NodeJS servers.
 
 - Document = JS object
 - Collection = SQL database table
-- Projection = filtered query for specific fields
+- Projection = Filtered query for specific fields
 
 ## Future development
 
 - Create support for complex database queries
-- Test Compass GUI
+- Test **compass** GUI
 - Test **mongo** CLI
 
 ## Contibutions
