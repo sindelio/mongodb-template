@@ -8,7 +8,7 @@ Custom MongoDB template for NodeJS servers.
 - Setup for connections to a MongoDB server with the functions:
   - **connectToDbServer**
   - **createDb**
-	- **closeConnectionToDbServer**
+  - **closeConnectionToDbServer**
 - Basic support for Create Read Update Delete - CRUD operations, with the functions:
   - **insertDocumentInCollection**
   - **getAllDocumentsFromCollection**
