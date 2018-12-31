@@ -26,8 +26,8 @@ Custom MongoDB template for NodeJS servers.
 ## Future development
 
 - Create support for complex database queries
-- Test **compass** GUI
-- Test **mongo** CLI
+- Test **compass** Graphical User Interface - GUI
+- Test **mongo** Command Line Interface - CLI
 
 ## Contibutions
 
